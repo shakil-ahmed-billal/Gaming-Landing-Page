@@ -44,6 +44,11 @@ nav>h1{
     display: flex;
     align-items: center;
 }
+.footer-2>h1{
+    font-size: 2.5rem;
+    display: flex;
+    align-items: center;
+}
 nav>ul{
     display: flex;
     gap: 40px;
